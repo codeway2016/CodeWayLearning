@@ -1,0 +1,7 @@
+1.	Given two sorted arrays, write a function to merge array B in array A. Assume A is big enough to hold all elements.
+2.	Write a class Employee, which represents an employee in a company. The employee has a employeeNumber (9 digit number), firstName, lastName and emailId as member variables. Create a few employee objects and store them in an array. Write the insertion sort algorithm, which takes an array of employee and sorts them in order of their employee number.
+3.	Watson gives Sherlock an array “A” of length “N”. Then he asks him to determine if there exists an element in the array such that the sum of the elements on its left is equal to the sum of the elements on its right. If there are no elements to the left/right, then the sum is considered to be zero. 
+Formally, find an “I” , such that, A1+A2+..Ai-1 = Ai+1 + Ai+2 + … AN
+Ex: Input: 1,2,3 then Output should be “No”
+	Input: 1,2,3,3 then output should be “Yes”
+4.	Given two sorted linked lists, write a method to merge the two list in sorted order. Can you try using O(n) and O(1) time and space complexity respectively?

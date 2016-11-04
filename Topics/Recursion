@@ -1,0 +1,8 @@
+1.	Given 2 numbers, use recursion to find GCD of the numbers.
+2.	Find the number of ways that a given integer, X , can be expressed as the sum of Nth  power of unique, natural numbers.
+Ex: A. If X=10 and N=2, find number of ways 10 can be represented as powers of 2 of unique numbers. (O/P will be 1 i.e 10 = 12+32)
+B. If X=100 and N=3, find number of ways 100 can be represented as powers of 3 of unique numbers. (O/P will be 1 i.e 100 = 13+23+33+43)
+C. If X=100 and N=2, find number of ways 100 can be represented as powers of 2 of unique numbers. (O/P will be 3 i.e 100 = 102 = 62+82 =12+32+42+52+72)
+3. Given an array of N numbers, find the numbers which are repeated at least k times. Print them in the order of their appearance in the array.
+Ex: [5,4,3,2,1,1,2,3,4,5] , 2 : O/P should be 5,4,3,2,1
+	[4,5,2,5,4,3,1,3,4] , 2 : O/P should be 4, 5, 3

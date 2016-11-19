@@ -1,0 +1,13 @@
+1.	Check palindrome using stack and queue.
+2.	Design a calculator to convert infix to prefix and postfix expression.
+3.	Implement a method to evaluate the expression generated in problem 2.
+4.	You are given Q queries. Each query consists of single number N. You can perform 2 operations on N in each move. If N= a x b (a!=1 and b!=1), you can change N= max(a,b) or decrease N by1.
+Determine the minimum number of moves to reduce N to 0.
+Input:
+1      (this is Q)
+3      (this is N)
+Explanation: Output Q lines. Each line containing the minimum number of moves required to reduce N to 0.
+
+Output:
+3
+Explanation: There is only 1 way to reduce 3 to 0 i.e. 3 -> 2-> 1-> 0
